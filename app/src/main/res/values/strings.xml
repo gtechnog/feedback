@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Feedback</string>
+    <string name="provide_comment">Provide comment?</string>
+    <string name="provide_comment_here">Type comment</string>
+    <string name="unknown_type_feedback_item">Unknown type Feedback Item</string>
+    <string name="submit">Submit</string>
+    <string name="form_submitted">Form submitted check logs for submitted info</string>
+    <string name="form_submitted_alert">Form Submitted</string>
+    <string name="alert_message">Check the logcat to see the submitted info</string>
+    <string name="ok">OK</string>
+</resources>

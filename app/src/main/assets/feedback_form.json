@@ -1,0 +1,128 @@
+[
+    {
+        "type": "PHOTO",
+        "id": "pic1",
+        "title": "Take a House Photo",
+        "dataMap": {}
+    },
+    {
+        "type": "SINGLE_CHOICE",
+        "id": "choice1",
+        "title": "Which Type of House",
+        "dataMap": {
+            "options": [
+                "Apartment",
+                "Villa",
+                "Independent House",
+                "Society"
+            ]
+        }
+    },
+    {
+        "type": "COMMENT",
+        "id": "comment1",
+        "title": "Comments about house?",
+        "dataMap": {}
+    },
+    {
+        "type": "PHOTO",
+        "id": "pic2",
+        "title": "Take a Animal Photo",
+        "dataMap": {}
+    },
+    {
+        "type": "SINGLE_CHOICE",
+        "id": "choice2",
+        "title": "Which Animal",
+        "dataMap": {
+            "options": [
+                "Dog",
+                "Cat",
+                "Rabbit",
+                "Tiger"
+            ]
+        }
+    },
+    {
+        "type": "COMMENT",
+        "id": "comment2",
+        "title": "comments about animal",
+        "dataMap": {}
+    },
+    {
+        "type": "PHOTO",
+        "id": "pic3",
+        "title": "Take a Book Photo",
+        "dataMap": {}
+    },
+    {
+        "type": "SINGLE_CHOICE",
+        "id": "choice3",
+        "title": "How about this book",
+        "dataMap": {
+            "options": [
+                "Must read",
+                "Not required",
+                "Can read up to you"
+            ]
+        }
+    },
+    {
+        "type": "COMMENT",
+        "id": "comment3",
+        "title": "Comments about book",
+        "dataMap": {}
+    },
+
+    {
+        "type": "PHOTO",
+        "id": "pic4",
+        "title": "Your favorite sport photo",
+        "dataMap": {}
+    },
+    {
+        "type": "SINGLE_CHOICE",
+        "id": "choice4",
+        "title": "Who else like this sport",
+        "dataMap": {
+            "options": [
+                "Brother",
+                "Friend"
+            ]
+        }
+    },
+    {
+        "type": "COMMENT",
+        "id": "comment4",
+        "title": "Comments about sport",
+        "dataMap": {}
+    },
+
+    {
+        "type": "PHOTO",
+        "id": "pic5",
+        "title": "Take photo of Nature",
+        "dataMap": {}
+    },
+    {
+        "type": "SINGLE_CHOICE",
+        "id": "choice5",
+        "title": "How is the weather?",
+        "dataMap": {
+            "options": [
+                "Humid",
+                "Sunny",
+                "Raining",
+                "Pleasant",
+                "Windy"
+            ]
+        }
+    },
+    {
+        "type": "COMMENT",
+        "id": "comment5",
+        "title": "Comments about weather",
+        "dataMap": {}
+    }
+
+]
